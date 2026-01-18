@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Optimizing system-level workflows and exploring the intersection of hardware and software<br>👯 I’m looking to collaborate on: Open-source projects involving systems programming or digital signal processing<br>🤝I’m looking for help with: Mastering advanced applications of Laplace and Fourier transforms in real-world engineering<br>🌱I’m currently learning: The deep mathematics behind AI disruption and G-code optimization for CNC milling<br>💬 DIY external SSD builds, NVMe performance, or professional communication in tech.<br>⚡ Fun fact I can debug a circuit and post-process a RAW photo with equal enthusiasm
+🔭 I’m currently working on: Optimizing system-level workflows and exploring the intersection of hardware and software<br>👯 I’m looking to collaborate on: Open-source projects involving systems programming or digital signal processing<br>🤝I’m looking for help with: Mastering advanced applications of Laplace and Fourier transforms in real-world engineering<br>🌱I’m currently learning: The deep mathematics behind AI disruption and G-code optimization for CNC milling<br>⚡ Fun fact I can debug a circuit and post-process a RAW photo with equal enthusiasm
 
 
 ## 🌐 Socials:
