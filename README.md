@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" />
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="60" />
 
-<h1>Hi, I'm Anurag Shukla 👋</h1>
+<h1>Hi, I'm Anurag Shukla <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="35" /></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+TIET+Patiala;Autonomous+Systems+%26+UAVs;Embedded+Hardware+Enthusiast;Applied+AI+%26+Full-Stack+Dev" alt="Typing SVG" />
 
