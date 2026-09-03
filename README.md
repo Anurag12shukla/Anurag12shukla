@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="60" />
 
 <h1>Hi, I'm Anurag Shukla <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="35" /></h1>
 
