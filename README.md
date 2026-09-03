@@ -70,12 +70,18 @@ funFact: "🕷️ Secretly Spiderman... but don't tell anyone"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag12shukla&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" alt="Anurag's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag12shukla&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://img.shields.io/github/stars/Anurag12shukla?style=for-the-badge&color=ec4899&labelColor=000000&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Anurag12shukla?style=for-the-badge&color=ec4899&labelColor=000000&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ec4899&labelColor=000000&logo=github&logoColor=white&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnurag12shukla" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag12shukla&layout=compact&langs_count=8&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" alt="Top Languages" height="165"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag12shukla&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=00000000&hide_border=true&cache_seconds=1800" alt="Anurag's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag12shukla&layout=compact&langs_count=8&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=00000000&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 
 </div>
+
+> If the two stat cards above don't render immediately, refresh the page after a few seconds — they're served live by github-readme-stats and can take a moment to warm up.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
