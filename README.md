@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <h1>Hi, I'm Anurag Shukla <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="35" /></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+TIET+Patiala;Autonomous+Systems+%26+UAVs;Embedded+Hardware+Enthusiast;Applied+AI+%26+Full-Stack+Dev" alt="Typing SVG" />
@@ -78,21 +77,16 @@ funFact: "🕷️ Secretly Spiderman... but don't tell anyone"
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag12shukla&bg_color=000000&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 Featured Project
 
 <div align="center">
-<a href="https://www.skillsync.shop/" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag12shukla&repo=web-dev-wkshp2025&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" />
-</a>
-</div>
 
-**SkillSync** — [skillsync.shop](https://www.skillsync.shop/) · 🏆 Top 21 Finalist, Cosmicathon 2026
+### 🔗 [SkillSync](https://www.skillsync.shop/)
+🏆 Top 21 Finalist, Cosmicathon 2026
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
